@@ -63,9 +63,14 @@ Now form terminal copy the development server which is http://127.0.0.1:8000/ an
 
   
 ## Demo
+The user interface in the browser look like this in user side.This is the page whare you can _add_,_update/edit_ & _delete_ the Student data.
+![](https://github.com/mrGain/Student-management-System/blob/main/.demo/mgmt_demo_img_1.png)
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+- Update/Edit page look like this when you click on the Edit button.
+![](https://github.com/mrGain/Student-management-System/blob/main/.demo/mgmt_demo_img_2-update.png)
 
+-This is where all the data are displayed in the default admin panel of Django.
+![](https://github.com/mrGain/Student-management-System/blob/main/.demo/admin_img.png)
   
 ## Documentation
 
